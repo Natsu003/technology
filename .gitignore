@@ -1,0 +1,53 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Rider IDE
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Visual Studio Code
+.vscode/
+
+# DotCover
+*.dotCover
+
+# MSTest test results
+TestResults/
+
+# Resharper
+_ReSharper.*/
+*.ReSharper.*
+
+# Coverage
+coverage/
+
+# Logs
+*.log
+
+# OneDrive temporary files
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Publish folder
+publish/
+
+# User-specific files
+*.dbmdl
+*.dbproj.schemaview
